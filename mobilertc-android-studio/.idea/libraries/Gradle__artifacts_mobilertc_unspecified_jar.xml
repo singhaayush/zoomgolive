@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:mobilertc:unspecified@jar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobilertc.aar/02768c33a3120ea9d0f4e15ac7035638/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobilertc.aar/02768c33a3120ea9d0f4e15ac7035638/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobilertc.aar/02768c33a3120ea9d0f4e15ac7035638/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobilertc.aar/02768c33a3120ea9d0f4e15ac7035638/jars/libs/protobuf-java-2.4.1-lite-zoom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
